@@ -5,8 +5,12 @@ public class Teste {
 	public void somar() {
 
 	}
-	
-	public void dividir(){
-		
+
+	public void dividir() {
+
+	}
+
+	public void Multiplicar() {
+
 	}
 }
