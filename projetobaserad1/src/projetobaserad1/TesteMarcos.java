@@ -1,5 +1,7 @@
 package projetobaserad1;
 
 public class TesteMarcos {
-	// teste..,
+	public void correcao(){
+		
+	}
 }
